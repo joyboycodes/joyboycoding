@@ -2,7 +2,7 @@
 - 👀 I’m interested in discovering web and game development
 - 🌱 I’m currently learning the basics of HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on interactive websites and web based games
-- 📫 How to reach me at contact@joyboy.codes
+- 📫 You can reach me at contact@joyboy.codes
 
 <!---
 joyboycoding/joyboycoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
